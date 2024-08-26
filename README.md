@@ -9,8 +9,7 @@ It plugs into 1 usb-a port on your laptop, and then extends it to 4 usb-a ports.
 
 ![design](design_v2.png)
 
-    OR
-
+OR
 - Import [this schematic](Schematic_usb-hub_2024-07-24.pdf) into the schematic editor
 
 ![schematic](schematic_v2.png)
